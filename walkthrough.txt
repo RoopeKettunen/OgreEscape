@@ -1,0 +1,29 @@
+Run OgreEscapeUI.scala
+Then, all you need to do to win is to input the following commands:
+[COMMAND NAME (comments if applicable)]
+
+run (if nothing else to do, always run)
+run
+run
+run
+pickup (boots will give enough speed to gain some separation from ogre)
+run
+run
+pickup (steak will be used to feed boar)
+run
+run
+pickup (dagger will be used to get rid of goblin)
+run
+run
+attack (goblin will steal all items if you do not kill it)
+run
+run
+run
+run
+feed (tame the boar so can ride)
+ride (ride the boar to gain 3 total movement to be able to out run ogre)
+run
+run
+run
+run
+run
